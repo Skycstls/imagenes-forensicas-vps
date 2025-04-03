@@ -240,4 +240,4 @@ openssl dgst -sha256 -sign privada.pem -out firma.bin balatro_backup.img.gz
 ```
 openssl dgst -sha256 -verify publica.pem -signature firma.bin balatro_backup.img.gz
 ```
-- Ubicacion de los archivos de firma y hash
+- Ubicacion de los archivos de firma y hash : https://limewire.com/d/PcQpd#VN2EsPAIhC
