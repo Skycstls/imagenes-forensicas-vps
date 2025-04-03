@@ -3,7 +3,7 @@
 ## Información General
 
 - Fecha y hora de la extracción
-    - Jueves, 3 de Abril de 2025
+    - Jueves, 3 de Abril de 2025 18:38
 - Responsable de la extracción
     - Horacio David Capilla Martín
 - Motivo de la extracción
